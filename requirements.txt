@@ -1,0 +1,16 @@
+# 필수
+pybaseball
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+pyarrow
+
+# 노트북 실행용
+ipykernel
+nbformat
+nbconvert
+
+# 선택 (해석 단계에서 있으면 사용)
+shap
